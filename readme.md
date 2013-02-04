@@ -16,13 +16,13 @@ Everything else is standard lib.
 
 ## Docs
 
-Usage:
+    Usage:
     python find_desktops.py [OPTS]
 
-Requires:
+    Requires:
     PIL
 
-Options:
+    Options:
     --path          Path to search on. Defaults to ./
     --min-width     Minimum width for images to be. Defaults to screen resolution
     --min-height    Minimum height for images to be. Defaults to screen resolution
